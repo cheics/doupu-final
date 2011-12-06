@@ -2,7 +2,7 @@ function [ g,geq ] = nonLinPolytopeConstraints11( x )
 %UNTITLED6 Summary of this function goes here
 %   Detailed explanation goes here
 % C, L, H
-x
+
 c=x(1);
 l=x(2);
 h=x(3);
